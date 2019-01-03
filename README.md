@@ -1,4 +1,4 @@
-#MSDS680 - Machine Learning
+# MSDS680 - Machine Learning
 
 These directories and files represent a merge of past teaching material from Dr. George and Dr. Busch.
 
