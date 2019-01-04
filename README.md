@@ -4,4 +4,4 @@ These directories and files represent a merge of past teaching material from Dr.
 
 ## Notes:
 
-* __Always__ check data file paths before running. Effort was made to correct any inconsistencies incurred from the merge, but things fall through the cracks.
+* __Always__ check data file paths before running. In most cases files have been localized to the week that needs them so changing to a relative path should be fairly easy.
